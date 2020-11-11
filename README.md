@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eyou! I'm doing this for my IBM Professional Certificate in Data Science
 
 <!--
 **MiguelRoddd/MiguelRoddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
